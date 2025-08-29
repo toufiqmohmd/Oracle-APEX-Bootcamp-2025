@@ -37,7 +37,7 @@ Central repo for APEX Bootcamp resources, scripts, and learning materials.
 - [Workshop Link 3](https://livelabs.oracle.com/pls/apex/r/dbpm/livelabs/run-workshop?p210_wid=3534&p210_wec=&session=5472038135115)  
 
 ### Designing Secure APEX Apps with Built-in Features  
-- [Workshop Link](https://livelabs.oracle.com/pls/apex/r/dbpm/livelabs/run-workshop?p210_wid=3578&p210_wec=&session=108753226205988)
+- [Workshop Link](https://livelabs.oracle.com/pls/apex/r/dbpm/livelabs/run-workshop?p210_wid=3315&p210_wec=&session=106908267113345)
 
 ### Themes, Templates & Template Components  
 - [Demo Projects App Export](https://github.com/toufiqmohmd/Oracle-APEX-Bootcamp-2025/blob/main/demo_projects.sql)  
