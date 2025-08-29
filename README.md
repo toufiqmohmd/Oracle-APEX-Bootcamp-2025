@@ -40,7 +40,7 @@ Central repo for APEX Bootcamp resources, scripts, and learning materials.
 - [Workshop Link](https://livelabs.oracle.com/pls/apex/r/dbpm/livelabs/run-workshop?p210_wid=3578&p210_wec=&session=108753226205988)
 
 ### Themes, Templates & Template Components  
-- [Demo Projects App Export](https://c4u04.objectstorage.us-ashburn-1.oci.customer-oci.com/p/EcTjWk2IuZPZeNnD_fYMcgUhdNDIDA6rt9gaFj_WZMiL7VvxPBNMY60837hu5hga/n/c4u04/b/livelabsfiles/o/labfiles%2Fdemo-projects-hol11.sql)  
+- [Demo Projects App Export](https://github.com/toufiqmohmd/Oracle-APEX-Bootcamp-2025/blob/main/demo_projects.sql)  
 - [Workshop Link](https://pankajgoyal-2407.github.io/apex/temp/apex-professional-hol14/workshops/tenancy/index.html)  
 
 ### Business Process Automation with Workflows  
